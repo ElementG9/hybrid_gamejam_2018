@@ -1,0 +1,34 @@
+{
+  "name": "hybrid_gamejam_2018",
+  "version": "1.0.0",
+  "description": "ElementG9's Game Off 2018 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Hello world!\";"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElementG9/hybrid_gamejam_2018.git"
+  },
+  "keywords": [
+    "ElementG9",
+    "GameJam",
+    "Hybrid",
+    "Javascript",
+    "Node",
+    "Nodejs",
+    "Express",
+    "Game",
+    "Jam"
+  ],
+  "author": "ElementG9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElementG9/hybrid_gamejam_2018/issues"
+  },
+  "homepage": "https://github.com/ElementG9/hybrid_gamejam_2018#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
